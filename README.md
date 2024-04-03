@@ -1,9 +1,10 @@
 ## My Personal Cloudflare Deployable Codes
 
-Below Codes For [AnimeDexLite](https://github.com/TechShreyash/AnimeDexLite)
+Below Codes For [AnimeDexLite](https://github.com/King-Kachi/KingPlay)
 
-- [AnimeDexApi](https://github.com/TechShreyash/AnimeDexApi) - Api To Get Anime Data From GogoAnime And Anilist
-- [AnimeDexProxy](https://github.com/TechShreyash/CloudflareWorker/tree/main/animedexproxy) - Proxy for bypassing cors errors while using api
+- [AnimeDexApi](https://github.com/King-Kachi/AnimeDexApi) - Api To Get Anime Data From GogoAnime And Anilist
+- [AnimeDexProxy](https://github.com/King-Kachi/CloudflareWorker/tree/main/animedexproxy) - Proxy for bypassing cors errors while using api
+
 
 
 ### Join For Latest Updates
